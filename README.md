@@ -1,0 +1,2 @@
+# IMDB_Sentiment_Analysis_Bidirectional_LSTM
+Review_Analysis_Bidirectional_Lstm_RNN
